@@ -1,0 +1,40 @@
+CLASS	Pathway	num	precent
+Cellular Processes	Cell growth and death	2629	1.17
+Cellular Processes	Cell motility	2276	1.01
+Cellular Processes	Cellular community	4	0.00
+Cellular Processes	Transport and catabolism	1649	0.73
+Environmental Information Processing	Membrane transport	17032	7.55
+Environmental Information Processing	Signal transduction	8300	3.68
+Environmental Information Processing	Signaling molecules and interaction	17	0.01
+Genetic Information Processing	Folding, sorting and degradation	7288	3.23
+Genetic Information Processing	Replication and repair	10979	4.87
+Genetic Information Processing	Transcription	1032	0.46
+Genetic Information Processing	Translation	15420	6.84
+Human Diseases	Cancers: Overview	2158	0.96
+Human Diseases	Cancers: Specific types	308	0.14
+Human Diseases	Drug resistance	2199	0.98
+Human Diseases	Endocrine and metabolic diseases	585	0.26
+Human Diseases	Immune diseases	225	0.10
+Human Diseases	Infectious diseases: Bacterial	2636	1.17
+Human Diseases	Infectious diseases: Parasitic	55	0.02
+Human Diseases	Infectious diseases: Viral	13	0.01
+Human Diseases	Neurodegenerative diseases	375	0.17
+Metabolism	Amino acid metabolism	26735	11.86
+Metabolism	Biosynthesis of other secondary metabolites	4350	1.93
+Metabolism	Carbohydrate metabolism	33261	14.75
+Metabolism	Energy metabolism	17366	7.70
+Metabolism	Glycan biosynthesis and metabolism	8127	3.60
+Metabolism	Lipid metabolism	7641	3.39
+Metabolism	Metabolism of cofactors and vitamins	17734	7.87
+Metabolism	Metabolism of other amino acids	7130	3.16
+Metabolism	Metabolism of terpenoids and polyketides	4927	2.19
+Metabolism	Nucleotide metabolism	16361	7.26
+Metabolism	Xenobiotics biodegradation and metabolism	3138	1.39
+Organismal Systems	Circulatory system	7	0.00
+Organismal Systems	Development	1	0.00
+Organismal Systems	Digestive system	207	0.09
+Organismal Systems	Endocrine system	1487	0.66
+Organismal Systems	Environmental adaptation	751	0.33
+Organismal Systems	Excretory system	157	0.07
+Organismal Systems	Immune system	236	0.10
+Organismal Systems	Nervous system	646	0.29

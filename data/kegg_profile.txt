@@ -1,0 +1,33 @@
+	GH	HC
+Energy metabolism	4	14
+Membrane transport	2	12
+Amino acid metabolism	17	8
+Global and overview maps	13	10
+Metabolism of terpenoids and polyketides	4	0
+Signal transduction	8	6
+Carbohydrate metabolism	13	18
+Infectious diseases: Parasitic	2	0
+Infectious diseases: Bacterial	1	4
+Endocrine and metabolic diseases	0	1
+Folding, sorting and degradation	0	2
+Transport and catabolism	2	1
+Lipid metabolism	7	2
+Metabolism of cofactors and vitamins	9	13
+Replication and repair	4	2
+Immune diseases	1	0
+Translation	1	8
+Biosynthesis of other secondary metabolites	2	1
+Endocrine system	1	1
+Nucleotide metabolism	5	3
+Xenobiotics biodegradation and metabolism	1	2
+Neurodegenerative diseases	1	0
+Signaling molecules and interaction	1	1
+Infectious diseases: Viral	0	1
+Metabolism of other amino acids	3	4
+Environmental adaptation	0	1
+Cell motility	0	2
+Glycan biosynthesis and metabolism	0	1
+Cancers: Specific types	1	0
+Cellular community	1	0
+Digestive system	1	0
+Cancers: Overview	1	0
